@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sanya</title>
+</head>
+<body>
+    <h1>Це Саня</h1>
+    <p>Я студент</p>
+</body>
+</html>
